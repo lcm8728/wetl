@@ -1,4 +1,4 @@
-package me.winter.daf.domain
+package me.winter.wetl.domain
 
 interface Property<T: Any> {
     val path: String

@@ -1,4 +1,4 @@
-package me.winter.daf.interfaces
+package me.winter.wetl.interfaces
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController

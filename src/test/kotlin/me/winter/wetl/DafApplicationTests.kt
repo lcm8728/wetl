@@ -1,4 +1,4 @@
-package me.winter.daf
+package me.winter.wetl
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

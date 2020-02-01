@@ -1,11 +1,11 @@
-package me.winter.daf
+package me.winter.wetl
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class DafApplication
+class WetlApplication
 
 fun main(args: Array<String>) {
-	runApplication<DafApplication>(*args)
+	runApplication<WetlApplication>(*args)
 }
