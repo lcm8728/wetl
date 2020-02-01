@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RestController
 import reactor.core.publisher.Mono
 
 @RestController
-class DafController {
+class WetlController {
 
     @GetMapping("/healthCheck")
     fun healthCheck(): Mono<String> {
